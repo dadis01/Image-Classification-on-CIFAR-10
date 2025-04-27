@@ -1,4 +1,4 @@
-# 📚 CIFAR-10 Image Classification: EDA, Modeling, and Evaluation
+# CIFAR-10 Image Classification: EDA, Modeling, and Evaluation
 
 # 1. Introduction
 """
